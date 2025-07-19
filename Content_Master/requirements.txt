@@ -1,0 +1,15 @@
+langgraph
+langchain
+langchain-openai
+requests
+beautifulsoup4
+pydantic
+python-dotenv
+matplotlib
+pillow
+jinja2
+duckduckgo-search
+wikipedia-api
+python-pptx
+reportlab
+ddgs
